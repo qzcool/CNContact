@@ -26,3 +26,4 @@ tel = CC.tel(content)
 
 ### 其他结构化信息的判定
 1. 小区名称：可以考虑关联[XiaoQu](https://github.com/rangduju/XiaoQu)来做关键词判定
+2. 时间日期：`ThuJul1109:13:492019`
